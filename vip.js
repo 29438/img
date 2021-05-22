@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              X全网视频会员
 // @author            程鹏
-// @version           2.0.1
+// @version           2.0.2
 // @charset		      UTF-8
 // @namespace         https://greasyfork.org/users/29438
 // @icon              https://tntfiles.com/preview/31c8a98f301329ede30e359d5ffba187381eb397faf33829a77e98dc9d0d7545.jpg
