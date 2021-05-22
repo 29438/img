@@ -7,7 +7,7 @@
 // @icon              https://tntfiles.com/preview/31c8a98f301329ede30e359d5ffba187381eb397faf33829a77e98dc9d0d7545.jpg
 // @description       一个平平无奇的小脚本【支持爱奇艺、腾讯、优酷、芒果、乐视、PPTV、哔哩哔哩、AcFun等主流视频平台免费去广告观看VIP会员视频，以及高清普清电视观看。若播放页不显示此插件或播放失败，请反馈QQ2943871928，反馈请备注"会员脚本"或来意.佛系更新,随缘更新。♡个人主页: http://app.5luck.cn/id/♡】
 // @updateURL         https://greasyfork.org/zh-CN/scripts/426063-x%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98
-// @installURL        https://greasyfork.org/scripts/426063-x%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98/code/X%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98.user.js
+// @installURL        https://cdn.jsdelivr.net/gh/29438/img@master/vip.js
 // @downloadURL       https://greasyfork.org/scripts/426063-x%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98/code/X%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98.user.js
 // @require           https://cdn.bootcss.com/jquery/3.5.1/jquery.min.js
 // @match             *://*.qq.com/*
