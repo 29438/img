@@ -2,7 +2,7 @@
 // @name         超星考试小助手
 // @namespace    https://greasyfork.org/zh-CN/users/714887-%E7%A8%8B%E9%B9%8F233
 // @version      1.2.1
-// @description  自动搜索尔雅考试答案，支持自动答题、自动切换题目.
+// @description  💯自动搜索尔雅考试答案，支持自动答题、自动切换题目.(图库接口搜集自网络，请勿相信任何可能出现的广告)
 // @author       程鹏
 // @icon         https://s3.ax1x.com/2020/12/08/r99FOK.jpg
 // @homepage     http://ali.5luck.cn:99/
@@ -10,8 +10,8 @@
 // @match        *://*.edu.cn/exam/test/reVersionTestStartNew*
 // @match        *://*.nbdlib.cn/exam/test/reVersionTestStartNew*
 // @match        *://*.hnsyu.net/exam/test/reVersionTestStartNew*
-// @updateURL    
-// @downloadURL    
+// @updateURL    https://raw.fastgit.org/29438/img/main/js/xxt_exam.user.js
+// @downloadURL  https://raw.fastgit.org/29438/img/main/js/xxt_exam.user.js  
 // @connect      cx.icodef.com
 // @run-at       document-end
 // @grant        unsafeWindow
