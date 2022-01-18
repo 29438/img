@@ -1,4 +1,4 @@
 # img
-https://cdn.jsdelivr.net/gh/29438/img@master/文件
+https://cdn.jsdelivr.net/gh/29438/img@master/
 
-https://raw.fastgit.org/29438/img/
+https://raw.fastgit.org/29438/img/main/
