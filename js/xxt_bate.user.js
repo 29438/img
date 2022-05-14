@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name                超星学习小助手(bate版)
 // @namespace           666
-// @version             1.4.1
+// @version             1.4.2
 // @description         新版考试、答题、视频2倍速、文档秒过、收录答案、作业、收录作业答案、读书秒过。
 // @author              程鹏
+// @updateURL           https://raw.fastgit.org/29438/img/main/js/xxt_bate.user.js
+// @installURL          https://raw.fastgit.org/29438/img/main/js/xxt_bate.user.js
 // @match               *://*.chaoxing.com/*
 // @match               *://*.edu.cn/*
 // @match               *://*.nbdlib.cn/*
