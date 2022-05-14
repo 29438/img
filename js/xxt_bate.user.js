@@ -138,7 +138,7 @@ function showTips() {
         },
         ontimeout: function () {
             logger('Tips:连接服务器失败！！！！！！！！！！！', 'red')
-            var _msg = "拖动进度条、倍速播放、秒过可能会导致不良记录！题库在慢慢补充，搜不到的题目系统会尽快进行自动补充";
+            var _msg = "拖动进度条、倍速播放、秒过可能会导致不良记录！题库在慢慢补充，搜不到的题目系统会尽快进行自动补充，视频默认开启2倍速，2倍速以上将被重置课程！";
             _w.layui.use('layer', function () {
                 this.layer.open({ content: _msg, title: '超星学习小助手提示', btn: '我已知悉', offset: 't', closeBtn: 0 });
             });
